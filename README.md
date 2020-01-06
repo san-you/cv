@@ -39,7 +39,7 @@ GitHub | heroku | Salesforce
 Jenkins | Apache | Tomcat | ENOVIA
 
 ## 主な業務経歴
-### 官公庁系の某制度使用者向けシステム開発【JavaEE | TypeScript】(2019年)
+### 官公庁系の某制度使用者向けシステム開発【Ruby | Salesforce】(2019年)
 
 【プロジェクト概要】官公庁系の某制度使用者向けシステム開発
 
