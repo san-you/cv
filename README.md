@@ -28,7 +28,7 @@ jQuery | Sinatra | Angular
 
 ### RDB/NoSQL
 
-MySQL | PostgreSQL | 
+SQLDeveloper | PostgreSQL | 
 
 ### SaaS/PaaS
 
