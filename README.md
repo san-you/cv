@@ -54,7 +54,7 @@ GitHub | Docker | AWS | CircleCI | heroku | Salesforce | CircleCI |  Jenkins | A
 　・Metabase, depeandabot等<br>
 ・パフォーマンスチューニング<br>
 　・例) Datadogで時間がかかっている(p99で確認)アクションのクエリをexplainし、インデックスを追加<br>
-　  ・クエリの実行時間が41s → 1sまで短縮できた<br>
+　　・クエリの実行時間が41s → 1sまで短縮できた<br>
 ・新入社員の入社時のアカウント発行、入社時ドキュメントの作成、整備<br>
 ・新入社員向けのSlackbotの作成<br>
 ・振り返り会の制定、実施<br>
