@@ -35,6 +35,22 @@ PostgreSQL | MySQL
 GitHub | Docker | AWS | CircleCI | heroku | Salesforce | CircleCI |  Jenkins | Apache | Tomcat | ENOVIA | 
 
 ## 主な業務経歴
+### クラウドソーシングサービスの開発【Ruby】(2022年~)
+【プロジェクト概要】<br>
+クラウドソーシングを行う自社サービスの開発<br>
+
+【主な利用技術】<br>
+使用言語: Ruby<br>
+使用フレームワーク: Ruby on Rails<br>
+その他: git、Github、Docker、CircleCI、AWS、Datadog、QiitaTeam<br>
+
+【担当業務】<br>
+・技術的負債の解消<br>
+ ・リファクタリング、不要な機能の削除、etc.
+・本番データのデータ修正<br>
+・各種ミドルウェアのバージョンアップ<br>
+　・depeandabot等<br>
+
 ### 特定保険指導自社サービス開発【Ruby】(2020年~)
 
 【プロジェクト概要】<br>
