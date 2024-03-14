@@ -24,7 +24,7 @@ Ruby | Java | JavaScript | TypeScript | C#
 
 ### フレームワーク等
 
-Ruby on Rails | jQuery | Sinatra | Angular
+Ruby on Rails | jQuery | Sinatra | Angular　| Vue
 
 ### RDB/NoSQL
 
@@ -32,24 +32,25 @@ PostgreSQL | MySQL
 
 ### その他
 
-GitHub | Docker | AWS | CircleCI | heroku | Salesforce | CircleCI |  Jenkins | Apache | Tomcat | ENOVIA | 
+GitHub | Docker | AWS | CircleCI | heroku | Salesforce | CircleCI |  Jenkins | Apache | Tomcat | ENOVIA
 
 ## 主な業務経歴
-### クラウドソーシングサービスの開発【Ruby】(2022年~)
+### クラウドソーシングサービスの開発【Ruby, TypeScript】(2022年~)
 【プロジェクト概要】<br>
 クラウドソーシングを行う自社サービスの開発<br>
 
 【主な利用技術】<br>
-使用言語: Ruby<br>
-使用フレームワーク: Ruby on Rails<br>
-その他: git、Github、Docker、CircleCI、AWS、Datadog、QiitaTeam<br>
+使用言語: Ruby, TypeScript<br>
+使用フレームワーク: Ruby on Rails, Vue<br>
+その他: git, Github, Docker, CircleCI, AWS, Datadog, Redash, QiitaTeam, Miro, Gather<br>
 
 【担当業務】<br>
 ・技術的負債の解消<br>
- ・リファクタリング、不要な機能の削除、etc.
+ ・リファクタリング、不要な機能の削除、erbのVueへの置換など
 ・本番データのデータ修正<br>
+・メンテナンスが放棄されたGemの削除対応<br>
 ・各種ミドルウェアのバージョンアップ<br>
-　・depeandabot等<br>
+　・depeandabotなど<br>
 
 ### 特定保険指導自社サービス開発【Ruby】(2020年~)
 
@@ -59,7 +60,7 @@ GitHub | Docker | AWS | CircleCI | heroku | Salesforce | CircleCI |  Jenkins | A
 【主な利用技術】<br>
 使用言語: Ruby<br>
 使用フレームワーク: Ruby on Rails<br>
-その他: git、Github、Docker、CircleCI、Jenkins、AWS、Metabase、Datadog、Sendgrid、Terraform、esa、Backlog<br>
+その他: git, Github, Docker, CircleCI, Jenkins, AWS, Metabase, Datadog, Sendgrid, Terraform, esa, Backlog<br>
 
 【担当業務】<br>
 ・新規サービス開発のサーバーサイドのリードエンジニアとしてPJの推進、仕様設計、開発<br>
@@ -93,7 +94,7 @@ GitHub | Docker | AWS | CircleCI | heroku | Salesforce | CircleCI |  Jenkins | A
 【主な利用技術】<br>
 使用言語: Ruby<br>
 使用フレームワーク: Sinatra<br>
-その他: Salesforce、git、Github、Heroku<br>
+その他: Salesforce, git, Github, Heroku<br>
 
 【担当業務】<br>
 ・アプリケーションの画面設計<br>
@@ -116,9 +117,9 @@ Active Recordも使用していたがプライベートでRailsを勉強して�
 某自動車メーカーの社内向け自動車、二輪車部品管理システム開発<br>
 
 【主な利用技術】<br>
-使用言語: Java、TypeScript<br>
+使用言語: Java, TypeScript<br>
 使用フレームワーク: 独自フレームワーク、Angular<br>
-その他: CATIA、svn、Jenkins、Redmine<br>
+その他: CATIA, svn, Jenkins, Redmine<br>
 
 【担当業務】<br>
 ・アプリケーションの画面設計、デザイン修正<br>
@@ -152,7 +153,7 @@ C++がxmlを読み込み対応したJavaのAPIを呼び出す、
 
 【主な利用技術】<br>
 使用言語: C#<br>
-その他: git、github<br>
+その他: git, github<br>
 
 【担当業務】<br>
 ・アプリケーションの画面設計、デザイン修正<br>
