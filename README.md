@@ -24,7 +24,7 @@ Ruby | Java | JavaScript | TypeScript | C#
 
 ### フレームワーク等
 
-Ruby on Rails | jQuery | Sinatra | Angular　| Vue
+Ruby on Rails | jQuery | Sinatra | Angular | Vue
 
 ### RDB/NoSQL
 
